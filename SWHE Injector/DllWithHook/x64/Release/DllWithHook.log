@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Пользователь\Desktop\SWHE Injector\DllWithHook\Main.cpp(5,26): warning C4244: return: преобразование "LRESULT" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Пользователь\Desktop\SWHE Injector\x64\Release\DllWithHook.lib и объект C:\Users\Пользователь\Desktop\SWHE Injector\x64\Release\DllWithHook.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DllWithHook.vcxproj -> C:\Users\Пользователь\Desktop\SWHE Injector\x64\Release\DllWithHook.dll
